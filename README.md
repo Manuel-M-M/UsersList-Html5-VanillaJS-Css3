@@ -3,7 +3,7 @@
 #### [See and try project](https://lista-de-usuarios-js-class-bootstrap.netlify.app/)
 
 ***
- ##### App using HTML5, JavaScript Vanilla and CSS3 in which you can create and delete user lists with buttons to increase products from the cart and to empty it  
+ ##### App using HTML5, JavaScript Vanilla and CSS3 in which you can select user lists with buttons to increase products from the cart and to empty it  
 
 
 
