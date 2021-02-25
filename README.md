@@ -5,7 +5,7 @@
 ***
  ##### App using HTML5, JavaScript Vanilla and CSS3 in which you can create and delete user lists with buttons to increase products from the cart and to empty it  
 
-![Grid layout](table.gif)
+![UserLists](table.gif)
 
 
 ***
